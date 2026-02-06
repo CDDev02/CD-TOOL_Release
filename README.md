@@ -6,14 +6,14 @@ repo main
 
 installer-index.json
 
-tag installer
+Release / tag installer
 
 CDTOOL_Setup.exe
 CDTOOL_Updater.exe
 integrity.json
 integrity.sig
 
-tag version
+Release / tag version
 
 CDTOOL.Core.dll
 CDTOOL.dll
