@@ -1,5 +1,6 @@
 설치 파일 배포용 저장소입니다.
 
+배포 세팅
 repo main
 installer-index.json
 
