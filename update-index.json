@@ -1,0 +1,12 @@
+{
+    "tag":  "v1.6",
+    "revision":  "639059622161649970",
+    "generated_at":  "2026-02-06T08:10:16.1690387Z",
+    "assets":  [
+                   "CDTOOL.dll",
+                   "CDTOOL.Core.dll",
+                   "CDTOOL_LSPLOAD.VLX",
+                   "integrity.json",
+                   "integrity.sig"
+               ]
+}
