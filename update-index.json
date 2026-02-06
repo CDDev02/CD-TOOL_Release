@@ -1,7 +1,7 @@
 {
-    "tag":  "v1.6",
-    "revision":  "639059634107916104",
-    "generated_at":  "2026-02-06T08:30:10.7946109Z",
+    "tag":  "v1.6.1",
+    "revision":  "639059739781499272",
+    "generated_at":  "2026-02-06T11:26:18.1535034Z",
     "assets":  [
                    "CDTOOL.dll",
                    "CDTOOL.Core.dll",
@@ -9,5 +9,4 @@
                    "integrity.json",
                    "integrity.sig"
                ]
-
 }
