@@ -1,12 +1,10 @@
 {
-    "tag":  "v1.7",
-    "revision":  "639104513577660671",
-    "generated_at":  "2026-03-30T07:09:17.7690672Z",
+    "tag":  "v1.7.1",
+    "revision":  "639106215931810621",
+    "generated_at":  "2026-04-01T06:26:33.1850630Z",
     "assets":  [
-                   "CDTOOL.dll",
-                   "CDTOOL.Core.dll",
-                   "CDTOOL_LSPLOAD.VLX",
                    "integrity.json",
-                   "integrity.sig"
+                   "integrity.sig",
+                   "release-upload-dll.zip"
                ]
 }
