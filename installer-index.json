@@ -1,11 +1,11 @@
 {
-    "tag":  "installer",
-    "revision":  "639153557475939468",
-    "generated_at":  "2026-05-26T01:29:07.5969468Z",
-    "assets":  [
-                   "CDTOOL_Setup.exe",
-                   "CDTOOL_Updater.exe",
-                   "integrity.json",
-                   "integrity.sig"
-               ]
+    "tag": "installer",
+    "revision": "639178821162168900",
+    "generated_at": "2026-06-24T07:15:16.2168900Z",
+    "assets": [
+        "CDTOOL_Setup.exe",
+        "CDTOOL_Updater.exe",
+        "integrity.json",
+        "integrity.sig"
+    ]
 }

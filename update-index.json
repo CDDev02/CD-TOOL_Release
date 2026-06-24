@@ -1,10 +1,10 @@
 {
-    "tag":  "v1.8.0",
-    "revision":  "639153557475939468",
-    "generated_at":  "2026-05-26T01:29:07.5969468Z",
-    "assets":  [
-                   "integrity.json",
-                   "integrity.sig",
-                   "release-upload-dll.zip"
-               ]
+    "tag": "v1.8.1",
+    "revision": "639178821162168900",
+    "generated_at": "2026-06-24T07:15:16.2168900Z",
+    "assets": [
+        "integrity.json",
+        "integrity.sig",
+        "release-upload-dll.zip"
+    ]
 }
