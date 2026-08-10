@@ -2,9 +2,29 @@
     "items": [
         {
             "tag": "v1.8.4",
-            "published_at": "2026-08-10T05:12:32.2832883Z",
+            "published_at": "2026-08-10T05:14:27Z",
             "body": "🔧 기능 개선\r\n\r\n*   EO 사진 파일명 변경\r\n    *   CameraPos CSV의 JPG 이름을 기준으로 원본 CameraNN 사진 파일명을 변경하도록 처리 방식 개선\r\n    *   원본을 유지해야 할 때는 CameraNN_EDIT 폴더에 이름이 변경된 복사본을 생성하는 옵션 추가\r\n\r\n🐛 버그 수정\r\n\r\n*   MMS QA (테스트 중인 기능)\r\n    *   PLUS 데이터의 공식 레이어 명칭과 도형 유형 기준이 정확히 적용되지 않던 문제 수정\r\n    *   검수 결과 SHP에서 오류 코드와 일부 속성값이 누락되거나 잘리던 문제 수정\r\n    *   도형 유형과 작은 면적에 대한 오류 안내가 불명확하던 문제 수정\r\n*   용지조서 작성\r\n    *   VWorld API 인증 정보 문제로 소유정보를 조회하지 못하던 문제 수정",
-            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "cross-section-ground-align", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "eo-image-rename", "pipe-settings", "layer-manage", "license-manage"]
+            "featureIds": ["layer-map", "drawing-cleanup", "area-object-cleanup", "cem", "contour-interpolation", "road-center-line-auto", "adx", "odi", "odp", "lac1", "lac2", "layer-rule-audit", "utility-depth", "profile-generator", "km2", "dw", "csg", "cross-section-ground-align", "paving-inserter", "big-cross", "sac", "cpa", "fqa", "awq", "qt", "sheet-report", "plant-pipe-quantity-input", "coord-convert", "field-plot-500", "drawing-compare-apply", "mms-qa", "eo-shp-conversion", "eo-image-rename", "pipe-settings", "layer-manage", "license-manage"],
+            "featureChanges": [
+                {
+                    "changeId": "chg-v1.8.4-sheet-report-updated",
+                    "featureId": "sheet-report",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.4-mms-qa-updated",
+                    "featureId": "mms-qa",
+                    "type": "updated",
+                    "displayAs": "badge"
+                },
+                {
+                    "changeId": "chg-v1.8.4-eo-image-rename-updated",
+                    "featureId": "eo-image-rename",
+                    "type": "updated",
+                    "displayAs": "badge"
+                }
+            ]
         },
         {
             "tag": "v1.8.3",
